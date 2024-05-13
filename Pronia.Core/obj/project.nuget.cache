@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bD8VoEPa6xg1UvvzPR8fhBtzgI0RC1nc0zbJAPA4Yp84XKt3+kdpCnov2keMdI7jsuIg360KR6dyjwHp834B3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nazani\\OneDrive\\Masaüstü\\9may\\Pronia.Core\\Pronia.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nazani\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\Nazani\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Nazani\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
